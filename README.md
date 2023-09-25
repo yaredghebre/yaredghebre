@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-- 🚀 I’m currently working on ... my Website
+- ＠ I’m currently working on ... my Website
 - 💻 I’m currently learning ... React, TypeScript, Java
 - 💬 Ask me about ... my Soft Skills, my goals or literally anything 😜
 - 📫 How to reach me ... yared2391@gmail.com / [LinkedIn](www.linkedin.com/in/yaredghebreghergis/)
-- ⚡ Fun fact: ... I'm an eager learner and a compulsive traveller!
+- ⚡ Fun fact: ... I'm an eager learner 📚 and a compulsive traveller 🚀
