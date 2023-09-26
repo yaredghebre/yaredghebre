@@ -2,7 +2,7 @@
 I'm a Jr. Full Stack Web Developer born and raised in Rome, IT 🇮🇹
  <img align="right" alt="GIF" src="codegithub.gif" width="200" height="200" />
 
-- ＠ I’m currently working on ... my Website
+- ＠ I’m currently working on ... my [Website](https://yared-ghebreghergis-portfolio.netlify.app/)
 - 💻 I’m currently learning ... React, TypeScript, Java
 - 💬 Ask me about ... my Soft Skills, my Goals or literally Anything 😜
 - ⚡ Fun fact: ... I'm an eager learner 📚 and a compulsive traveller 🚀
